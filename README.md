@@ -11,6 +11,7 @@ The curve editor offers the following built-in curves, each implemented primaril
 
 #### Usage
 Create Python 3.7+ virtual enviroment in cloned repository folder.
+
 **Running the project:**
 
 ```

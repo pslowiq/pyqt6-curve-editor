@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://github.com/pslowiq/pyqt6-curve-editor/assets/126721919/3cd36801-0052-4f3b-96a2-5612ab33e94f0">
 </p>
+
 **Description:**
 
 This is educational project for 'Curves and Surfaces in Computer Graphics' course held at IIUwr.

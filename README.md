@@ -2,7 +2,9 @@
 
 **Description:**
 
-This project is an educational project for 'Curves and Surfaces in Computer Graphics' class held at IIUwr. It is designed to provide hands-on experience in learning about different types of curves commonly used in computer graphics and design. Developed using the PyQt6 framework, this curve editor offers an interactive platform for creating and manipulating various types of curves. While not optimized for speed or extensive usability, the project serves as an insightful introduction to curve manipulation algorithms and their implementation.
+This is educational project for 'Curves and Surfaces in Computer Graphics' class held at IIUwr.
+
+It is designed to provide hands-on experience in learning about different types of curves commonly used in computer graphics and design. Developed using the PyQt6 framework, this curve editor offers an interactive platform for creating and manipulating various types of curves. While not optimized for speed or extensive usability, the project serves as an insightful introduction to curve manipulation algorithms and their implementation.
 
 The curve editor offers the following built-in curves, each implemented primarily from scratch using Python and NumPy. It has minimal interface allowing to edit the curve inside the program.
 

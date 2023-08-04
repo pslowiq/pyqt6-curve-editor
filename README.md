@@ -8,6 +8,9 @@ It is designed to provide hands-on experience in learning about different types 
 
 The curve editor offers the following built-in curves, each implemented primarily from scratch using Python and NumPy. It has minimal interface allowing to edit the curve inside the program.
 
+
+#### Usage
+Create Python 3.7+ virtual enviroment in cloned repository folder.
 **Running the project:**
 
 ```
